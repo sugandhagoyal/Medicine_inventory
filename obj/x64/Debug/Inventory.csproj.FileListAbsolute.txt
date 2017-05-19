@@ -1,0 +1,14 @@
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\bin\x64\Debug\Inventory.exe.config
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\bin\x64\Debug\Inventory.exe
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\bin\x64\Debug\Inventory.pdb
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\App.g.cs
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory_MarkupCompile.cache
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory_MarkupCompile.lref
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\MainWindow.baml
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory.g.resources
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory.Properties.Resources.resources
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory.exe
+C:\Users\Sugandha\Documents\Medicine_Inventory\Inventory\Inventory\obj\x64\Debug\Inventory.pdb
